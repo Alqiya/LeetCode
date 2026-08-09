@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Alqiya/LeetCode/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/Alqiya/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
